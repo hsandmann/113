@@ -39,6 +39,7 @@ Repository
 9. [SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition](https://arxiv.org/abs/1904.08779)
 
 10. [Tutorials Point - AI with Python – Speech Recognition](https://www.tutorialspoint.com/artificial_intelligence_with_python/artificial_intelligence_with_python_speech_recognition.htm)
+11. [State-of-the-art Speech Recognition With Sequence-to-Sequence Models](https://ai.google/research/pubs/pub46687)
 
 ### Requests
 
