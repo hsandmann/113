@@ -41,6 +41,14 @@ Repository
 10. [Tutorials Point - AI with Python – Speech Recognition](https://www.tutorialspoint.com/artificial_intelligence_with_python/artificial_intelligence_with_python_speech_recognition.htm)
 11. [State-of-the-art Speech Recognition With Sequence-to-Sequence Models](https://ai.google/research/pubs/pub46687)
 
+
+a. [The 3 Deep Learning Frameworks For End-to-End Speech Recognition That Power Your Devices](https://heartbeat.fritz.ai/the-3-deep-learning-frameworks-for-end-to-end-speech-recognition-that-power-your-devices-37b891ddc380)
+b. 
+
+
+
+a1. [Introducing Translatotron: An End-to-End Speech-to-Speech Translation Model](https://ai.googleblog.com/2019/05/introducing-translatotron-end-to-end.html)
+
 ### Requests
 
 We would like to propose you a challenge. The challenge is the following:
